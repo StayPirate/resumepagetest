@@ -293,14 +293,6 @@ h3 {
   color: var(--muted);
 }
 
-.bullets {
-  list-style: disc;
-  margin: 8px 0 0 18px;
-}
-
-.bullets li {
-  margin-top: 4px;
-}
 
 .cards {
   display: grid;
